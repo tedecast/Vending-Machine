@@ -153,7 +153,9 @@ function makeChange(money) {
 }
 
 $("#changeButton").click(function (event) {
-  $("#changeDisplay").text.value = "";
+  $("#changeDisplay").text("");
+  $("#displayMessage").text("");
+  $("#itemChoice").text("");
   makeChange(money);
   money = 0;
 });
