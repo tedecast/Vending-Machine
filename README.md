@@ -5,5 +5,5 @@ A single page application that utilizes an API to mimic a vending machine.
 ![Main Page](https://github.com/tedecast/Vending-Machine/blob/main/Screenshots/vending_main.png?raw=true)
 
 ## Purchase
-![Purchase](https://github.com/tedecast/Guess-The-Number/blob/main/Screenshots/rules_page.jpg?raw=true)
+![Purchase](https://github.com/tedecast/Vending-Machine/blob/main/Screenshots/vending_purchase.png?raw=true)
 
